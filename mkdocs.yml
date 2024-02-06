@@ -1,0 +1,7 @@
+site_name: awstestapplication-811
+
+nav:
+  - Home: README.md
+
+plugins:
+  - techdocs-core
